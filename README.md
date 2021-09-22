@@ -7,15 +7,15 @@ this repo is a clone of https://github.com/miguelgrinberg/flasky.
 
 <img src="https://github.com/kimwonjin97/ECE444-F2021-Lab2/blob/master/screenshots/a1.png">
 
-## Activity 2 (3 point): Creating a repo in your own GitHub account and replay the textbook example
+## Activity 2: (3 point): Creating a repo in your own GitHub account and replay the textbook example
 
 <img src="https://github.com/kimwonjin97/ECE444-F2021-Lab2/blob/master/screenshots/a2.png">
 
-## Activity 3 (3 point): Replay and modify example in Chapter 3 
+## Activity 3: (3 point): Replay and modify example in Chapter 3 
 
 <img src="https://github.com/kimwonjin97/ECE444-F2021-Lab2/blob/master/screenshots/a3.png">
 
-## Activity 4 (3 point): Replay and modify example in Chapter 4
+## Activity 4: (3 point): Replay and modify example in Chapter 4
 
 ### part 1
 
